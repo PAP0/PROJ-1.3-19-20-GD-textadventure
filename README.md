@@ -1,5 +1,5 @@
 ## MaQuest
-gamedeveloper :[jouw naam]
+gamedeveloper :[Patryk Podwórny]
 
 ### Korte omschrijving van de game
 ...
@@ -14,6 +14,6 @@ gamedeveloper :[jouw naam]
 |<img width=500/>|<img width=300/>|
 
 
-   [LiveDemo]: <http://sjo.hosts.ma-cloud.nl/2018_2019/PROJ-1.3-19-20-GD-textadventure/>
+   [LiveDemo]: <http://29280.hosts2.ma-cloud.nl/bewijzenmap/periode1.3/SCT/textadventuremaster/PROJ-1.3-19-20-GD-textadventure-master/index.html>
    [Design]: <docs/design.png>
    [Map]:<docs/map.png>
