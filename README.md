@@ -14,6 +14,6 @@ gamedeveloper :[Patryk Podwórny]
 |<img width=500/>|<img width=300/>|
 
 
-   [LiveDemo]: <29280.hosts2.ma-cloud.nl/bewijzenmap/periode1.3/SCT/PROJ-1.3-19-20-GD-textadventure/index.html>
+   [LiveDemo]: <http://29280.hosts2.ma-cloud.nl/bewijzenmap/periode1.3/SCT/PROJ-1.3-19-20-GD-textadventure/index.html>
    [Design]: <docs/design.png>
    [Map]:<docs/map.png>
